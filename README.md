@@ -3,7 +3,7 @@
 
 <img align ="right" alt="happy" height="400" width="300" src="https://image.lexica.art/md2/c4f83bdd-dae4-4bc1-9a9b-8eae2c123537">
 
--  🔭 I’m currently working as a **Full stack Intern**
+-  🔭 I’m currently working as a **Developer at Tata Consultancy Services**
 
 - 🌱 I’m currently learning **MERN stack**
 
